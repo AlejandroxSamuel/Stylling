@@ -1,0 +1,24 @@
+h1{
+    font-family:cursive ;
+    background-color: black;
+    color:white;
+    font-size: 40px;
+}
+.First_Letter{
+    color:aqua;
+}
+
+h2{
+    color: white;
+    font-family: cursive;
+    background-color:purple ;
+    font-size: 28px;
+    text-align: center;
+}
+
+h4{
+    font-family: cursive;
+    background-color:aquamarine;
+    text-align: right;
+    
+}
